@@ -1,5 +1,5 @@
 # Multimodal-Content-Adaptation
-#### Description: A React.js application that implements Multimodal Content Rendering by adding functionalities to display the same educational content in three formats: Text, Video, and Audio. The allows the user to select their preferred content format using a menu.
+#### Description: A React.js application that implements Multimodal Content Rendering by adding functionalities to display the content in three formats: Text, Video, and Audio. The allows the user to select their preferred content format using a menu.
 
 Tech: HTML, CSS, ReactJs, NodeJs.
 
@@ -24,5 +24,5 @@ Implementation approach:
 4. App.js will bind all these files together to run the website.
 
 Challenges:
-1.	Did not implement text to speech due shortage of time.
+1.	Did not implement text to speech.
 2.	When audio or video format is chosen the content plays from beginning each time. (Forcing the user to begin from starting, which could be annoying).
