@@ -4,7 +4,7 @@
 Tech: HTML, CSS, ReactJs, NodeJs.
 
 Introduction:
-1.	There are three formats of same content for the user to choose from, which they can using a dropdown menu. 
+1.	There are three formats of same content for the user to choose from, which they can choose using a dropdown menu. 
 2.	When playing the audio format, the video content should not interfere and vice-versa. 
 3.	The audio file is downloaded audio file of embedded YouTube video.
 4.	The application is simple, functional and easy to use.
